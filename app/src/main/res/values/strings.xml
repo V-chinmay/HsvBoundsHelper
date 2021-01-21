@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Patch Detector Helper</string>
+
+    <string-array name="colorList">
+        <item>"red"</item>
+        <item >"green"</item>
+        <item>"blue"</item>
+        <item>"yellow"</item>
+    </string-array>
+
+</resources>
